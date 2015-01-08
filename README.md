@@ -1,10 +1,10 @@
-A Design of Semi-auto Shelf for exhibition in libraries, expos or museums
+Semi-auto Shelf 
 =======
 
 UMJI VG100 project in 2011 Fall semester
 #Semi-auto Shelf
 -------------------------------------------------
-Dongle which enables user to do their own configurations.
+A Design of Semi-auto Shelf for exhibition in libraries, expos or museums
 
 #Function
 ---------------------------------------------------
